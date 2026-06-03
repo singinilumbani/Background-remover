@@ -8,7 +8,7 @@ import io
 app = FastAPI()
 
 origins = [
-    "http://127.0.0.1:5500",
+    "https://singinilumbani.github.io/Background-remover/",
     "http://localhost:5500",
 ]
 
